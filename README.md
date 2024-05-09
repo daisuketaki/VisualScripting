@@ -26,3 +26,21 @@ https://www.youtube.com/watch?v=8ZP5eqm4JqM
 
 ## 履歴
 2024/05/09 演習シーンを作成
+
+## 作業メモ
+- UnityChan URP
+
+https://unity-chan.com/download/releaseNote.php?id=ssu_urp
+
+-Unity Chan Spring BoneとUnity Toon Shader、それにUnity chan URPをインストール
+ -VRMインストール
+
+https://note.com/mega_gorilla/n/n3c74d1a8e00a
+
+-bibidebaのセットアップ
+ -本家サイトからFBXをDL
+
+https://www.youtube.com/watch?v=8ZP5eqm4JqM
+
+-インストールの仕方はここ
+ https://qiita.com/hacha_/items/f79bd02b154b4d74edb3
