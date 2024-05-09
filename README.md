@@ -7,11 +7,14 @@
 
 ## credit
 - モーションデータ
+
 ビビデバ / 星街すいせい(official)
 https://www.youtube.com/watch?v=8ZP5eqm4JqM
 
 曲: ビビデバ
+
 アーティスト: Hoshimachi Suisei
+
 アルバム: BIBBIDIBA
 
 - モデルデータ
